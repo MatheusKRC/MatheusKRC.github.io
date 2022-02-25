@@ -1,19 +1,33 @@
-.Fonte-Nova{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+.Fonte-Nova {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
-body{
-    background-color: f0efeb;
+body {
+  background-color: f0efeb;
 }
 
-p{
-    font-style: italic;
+p {
+  font-style: italic;
 }
 
-.Habilidades{
-    font-size: 20px;
+.Habilidades {
+  font-size: 20px;
 }
 
+.Float{
+    float: left;
+}
 
+.Separação{
+    height: 490px;
+}
 
- 
+div h2{
+    text-align: center;
+}
+
+div img{
+padding: 5%;
+background-color: black;
+}
